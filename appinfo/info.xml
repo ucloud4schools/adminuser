@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+    <id>adminuser</id>
+    <name>AdminUser</name>
+    <description>Adminuser</description>
+    <version>1.1</version>
+    <licence>AGPL</licence>
+    <author>regio iT</author>
+    <require>5</require>
+	<default_enable/>
+</info>
